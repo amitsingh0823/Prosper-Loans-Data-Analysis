@@ -14,7 +14,7 @@
 - The main purpose of this project is to summarize the characteristics of variables that can affect the loan status and to get some ideas about the relationships among multiple variables using summary statistics and data visualizations.
 
 ## Database
-- Get the database which was provided by the Udacity :- [ProsperLoanData.csv](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv)
+- Got the database which was provided by the Udacity :- [ProsperLoanData.csv](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv)
 ## Summary
 - In the exploration, I found that how the borrowers rate is placing a major in the occupation status .
 - We find that the most of the borrower are employment .
