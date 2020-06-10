@@ -16,7 +16,7 @@
 ## Database
 - Get the database which was provided by the Udacity :- [ProsperLoanData.csv](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv)
 ## Summary
--In the exploration, I found that how the borrowers rate is placing a major in the occupation status .
+- In the exploration, I found that how the borrowers rate is placing a major in the occupation status .
 - We find that the most of the borrower are employment .
 - Loan status having current status have their own hown.
 - Applicants having C prosper rate have highest employment status .
